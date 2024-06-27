@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.609" height="66.609" viewBox="0 0 66.609 66.609">
+  <defs>
+    <filter id="Icon_awesome-user-circle" x="0" y="0" width="66.609" height="66.609" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-user-circle)">
+    <path id="Icon_awesome-user-circle-2" data-name="Icon awesome-user-circle" d="M24.3.563a24.3,24.3,0,1,0,24.3,24.3A24.3,24.3,0,0,0,24.3.563Zm0,9.408A8.624,8.624,0,1,1,15.68,18.6,8.624,8.624,0,0,1,24.3,9.971Zm0,33.713A18.78,18.78,0,0,1,9.947,37,10.927,10.927,0,0,1,19.6,31.139a2.4,2.4,0,0,1,.7.108,12.976,12.976,0,0,0,4.008.676,12.926,12.926,0,0,0,4.008-.676,2.4,2.4,0,0,1,.7-.108A10.927,10.927,0,0,1,38.662,37,18.78,18.78,0,0,1,24.3,43.684Z" transform="translate(9 8.44)" fill="#3d3d3d"/>
+  </g>
+</svg>
